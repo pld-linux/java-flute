@@ -5,7 +5,6 @@
 %define		rel			1
 %define		subver		OOo31
 %define		srcname		flute
-%include	/usr/lib/rpm/macros.java
 Summary:	Java CSS parser using SAC
 Name:		java-%{srcname}
 Version:	1.3.0
